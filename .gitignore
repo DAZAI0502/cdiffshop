@@ -173,6 +173,7 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+*.json
 
 # Pyre type checker
 .pyre/
@@ -218,3 +219,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+agent_trace.log
